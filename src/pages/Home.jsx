@@ -1,8 +1,8 @@
 import { NavLink } from "react-router-dom";
-import PlaceholderHero from '../assets/placeholder_hero_background.jpg'
+import PlaceholderHero from '../assets/placeholder_lilac2_background.jpg'
 
-const fullName = 'Replace with your name';
-const personalQuote = 'Replace with your personal quote';
+const fullName = 'Rukia Hinds';
+const personalQuote = '“You may encounter many defeats, but you must not be defeated.” — Maya Angelou';
 const professionalSummary = 'Replace with your professional summary';
 
 const Home = () => {

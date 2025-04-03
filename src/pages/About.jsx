@@ -2,9 +2,9 @@ import { NavLink } from 'react-router-dom';
 import PlaceholderImage from '../assets/placeholder_image.png';
 
 // Replace these variables with your information
-const firstName = 'Replace with your first name';
-const jobTitle = 'Replace with your title';
-const company = 'Replace with your company name';
+const firstName = 'Rukia';
+const jobTitle = 'Entry Tech Professional';
+const company = 'NPOwer Path2Tech Program';
 const mainDuty = 'Replace with your main duty';
 const jobLocation = 'Replace with your job location';
 const briefJobDescription = 'Replace with a brief description of your job';
